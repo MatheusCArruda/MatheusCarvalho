@@ -24,15 +24,6 @@ Atualmente estou focado em me tornar um **Desenvolvedor Full Stack**, estudando 
 🎓 **Engenharia de Software** (cursando)
 🏫 Estácio
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[github.com/matheuscarvalho](https://github.com/MatheusCArruda)&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github.com/matheuscarvalho](https://github.com/MatheusCArruda)&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 
 ## 🎯 Objetivos
 
