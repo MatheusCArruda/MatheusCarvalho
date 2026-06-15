@@ -33,12 +33,6 @@ Atualmente estou focado em me tornar um **Desenvolvedor Full Stack**, estudando 
 * Contribuir para projetos Open Source
 * Conquistar minha primeira vaga como Desenvolvedor
 
-## 📫 Contato
-
-<a href="www.linkedin.com/in/matheus-carvalho-2183b4277" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
 ---
 
 > 💡 "A melhor maneira de aprender programação é construindo soluções para problemas reais."
